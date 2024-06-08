@@ -1,5 +1,6 @@
-<h1 align="center">Hello There, This is Pushkar D</h1>
-<h3 align="center">An Engineer from India interested in Electronics and Java</h3>
+<p align="center"> 
+    <img src="https://github.com/pushkar666/GRAPHICAL/blob/main/Animation.gif" alt="pushkar666" /> 
+</p>
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=pushkar666&label=Page%20views&color=13a4ba&style=for-the-badge&abbreviated=true" alt="pushkar666" /> 
