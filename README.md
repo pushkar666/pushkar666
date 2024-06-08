@@ -15,7 +15,7 @@
 - My Curriculum Vitae: [>>📄<<](https://drive.google.com/file/d/1dDFukQWV1yDaKY4kLR3OAVtIIzwVYWf0/view?usp=drive_link)
 
 <p align="center">
-    <img src="https://s3.ezgif.com/tmp/ezgif-3-9d5af03bcf.webp" alt="Graphic" />
+    <img src="https://github.com/pushkar666/GRAPHICAL/blob/main/giphy.gif" alt="Graphic" />
 </p>
 
 <h3 align="left">Links to Connect with me:</h3>
