@@ -12,7 +12,7 @@
 
 - 📫 Mail me at: **pushkardwarkanath@gmail.com**
 
-- My Curriculum Vitae: [>>📄<<](https://drive.google.com/file/d/1dDFukQWV1yDaKY4kLR3OAVtIIzwVYWf0/view?usp=drive_link)
+- My Curriculum Vitae: [>>📄<<](https://drive.google.com/file/d/14ALB0HJV8f6iw1dOrYULkQpmJxV91Du_/view?usp=sharing)
 
 <p align="center">
     <img src="https://github.com/pushkar666/GRAPHICAL/blob/main/giphy.gif" alt="Graphic" />
