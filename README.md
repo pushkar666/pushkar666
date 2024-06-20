@@ -14,7 +14,7 @@
 
 - My Curriculum Vitae: [>>📄<<](https://drive.google.com/file/d/14ALB0HJV8f6iw1dOrYULkQpmJxV91Du_/view?usp=sharing)
 
-<p align="center">
+<!--p align="center"-->
     <img src="https://github.com/pushkar666/GRAPHICAL/blob/main/giphy.gif" alt="Graphic" />
 </p>
 
