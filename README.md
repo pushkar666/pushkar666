@@ -38,3 +38,57 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/eclipse/eclipse-original.svg" alt="eclipse" width="40" height="40"/> 
     </a>  
 </p>
+
+
+
+<p align="center"> 
+    <img src="https://github.com/pushkar666/GRAPHICAL/blob/main/Animation.gif" alt="pushkar666" /> 
+</p>
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=pushkar666&label=Page%20views&color=13a4ba&style=for-the-badge&abbreviated=true" alt="pushkar666" /> 
+</p>
+Hi there, I'm Pushkar 👋
+📖 Electronics and Communication Engineer, currently learning Java, SQL
+💬 Let's have a chat about VLSI, MATLAB & JAVA
+📫 Reach me at: pushkardwarkanath@gmail.com
+📄 Check out my Curriculum Vitae
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://github.com/pushkar666" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/puxkar_d/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/dpushkar" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/PUSHKARD6" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" />
+  </a>
+</p>
+🛠️ Skills
+<p align="center">
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.amd.com/en.html" target="_blank" rel="noreferrer"> 
+        <img src="https://user-images.githubusercontent.com/48672827/57464068-a2a35580-72ae-11e9-9d52-7cadbf0cb940.png" alt="AMD" width="40" height="40"/> 
+    </a> 
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/> 
+    </a> 
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/> 
+    </a> 
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="40" height="40"/> 
+    </a>
+</p>
