@@ -19,7 +19,7 @@
 
 <h1></h1>
 
-# Projects
+<!--# Projects
 ### Design and Implementation of Traffic Light Controller For T-Intersection on FPGA using Verilog HDL and SPARTAN6 FPGA Board
 Improved Switching Traffic System and Resistant against failures. (VTU)
 
@@ -32,7 +32,7 @@ Coffee Brewer with integrated Interface for seamless transaction and processing.
 ### Android App Development for Coffee Making Machine
 App based Remote Interfacing.
 
-### Number Plate Recognition By Implementation Of Image Processing In Matlab
+### Number Plate Recognition By Implementation Of Image Processing In Matlab -->
 
 # Skills
 ### Programming Languages
