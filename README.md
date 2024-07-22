@@ -73,3 +73,13 @@ App based Remote Interfacing.
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" width="32" height="32" alt="Twitter" />
   </a>
 </p>
+
+
+## 🧑‍💻 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pushkar666&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pushkar666&layout=compact&theme=dark)
+
+<!-- Trophies -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=pushkar666&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
