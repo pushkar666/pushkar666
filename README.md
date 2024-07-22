@@ -19,7 +19,7 @@
   
 * ✉️  You can contact me at [pushkardwarkanath@gmail.com](mailto:pushkardwarkanath@gmail.com)
 
-* 📄 Know about my experiences [resume](https://drive.google.com/file/d/14ALB0HJV8f6iw1dOrYULkQpmJxV91Du_/view?usp=sharing)
+* 📄 Know about my experiences [resume](https://drive.google.com/file/d/1OtaUxR5bqeBl1xGkoFoJSlYxv9l-CVw9/view?usp=drive_link)
 
 <br/> 
 <img src="/assets/loader2.gif" width=1024px height=5px />
