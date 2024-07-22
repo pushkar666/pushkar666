@@ -1,17 +1,9 @@
 <!-- Banner image -->
-<img src="https://github.com/pushkar666/GRAPHICAL/raw/main/Animation.gif" />
+<img align="center" src="https://github.com/pushkar666/GRAPHICAL/raw/main/Animation.gif" />
 
 <!-- Dynamic counter -->
-<img src="https://camo.githubusercontent.com/868927f8a3fefea48b859b31537b9350201b550ca6193b3f1a854efeccbca62b/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d707573686b6172363636266c6162656c3d50616765253230766965777326636f6c6f723d313361346261267374796c653d666f722d7468652d62616467652661626272657669617465643d74727565" />
+<img align="center" src="https://camo.githubusercontent.com/868927f8a3fefea48b859b31537b9350201b550ca6193b3f1a854efeccbca62b/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d707573686b6172363636266c6162656c3d50616765253230766965777326636f6c6f723d313361346261267374796c653d666f722d7468652d62616467652661626272657669617465643d74727565" />
 
-<!-- introduction -->
-<h3 align="center"> Namastee <img align="center" width="80" height="50" src="https://github.com/Dileep-royal/Dileep-royal/blob/main/assets/namaste.gif"/> </h3>
-<h1 align="center"> I'm PUSHKAR D </h1>
-<h3 align="center"> A Passionate and Tech Savvy Engineer from India </h3>
-
-<!-- Profile pic -->
-<img align="right" width="400" height="400" src="https://github.com/Dileep-royal/Dileep-royal/blob/main/assets/ezgif.com-crop%20(1).gif" />
-</br>
 
 * 🌍  I'm based in Bengaluru, India.
 
