@@ -24,6 +24,8 @@
 <br/> 
 <img src="/assets/loader2.gif" width=1024px height=5px />
 
+<h1></h1>
+
 # Projects
 ### Design and Implementation of Traffic Light Controller For T-Intersection on FPGA using Verilog HDL and SPARTAN6 FPGA Board
 - Improved Switching Traffic System and Resistant against failures. (VTU)
