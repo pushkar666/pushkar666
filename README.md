@@ -2,7 +2,7 @@
 <img align="center" src="https://github.com/pushkar666/GRAPHICAL/raw/main/Animation.gif" />
 
 <!-- Dynamic counter -->
-<img align="center" src="https://camo.githubusercontent.com/868927f8a3fefea48b859b31537b9350201b550ca6193b3f1a854efeccbca62b/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d707573686b6172363636266c6162656c3d50616765253230766965777326636f6c6f723d313361346261267374796c653d666f722d7468652d62616467652661626272657669617465643d74727565" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pushkar666&label=Profile%20views&color=0e75b6&style=flat" alt="pushkar666" /> </p>
 
 <h1></h1>
 
