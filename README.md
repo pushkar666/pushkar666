@@ -7,9 +7,8 @@
 <h1></h1>
 
 * 🌍  I'm based in Bengaluru, India.
-* 🧠  I'm learning Java and SQL.
-* 🌱 I’m currently learning **Java, VLSI, and MATLAB**.
-* 💬 Ask me about **Electronics and Communication Engineering**.
+* 🧠  I'm interested in Java and SQL.
+* 🌱 I’m currently learning **Java, Spring-Boot, NextJS**.
 * 🖥️  See my portfolio at [Portfolio](http://bxbxbxb).
 * ✉️  You can contact me at [pushkardwarkanath@gmail.com](mailto:pushkardwarkanath@gmail.com).
 * 📄 Know about my experiences [resume](https://drive.google.com/file/d/1OtaUxR5bqeBl1xGkoFoJSlYxv9l-CVw9/view?usp=drive_link).
