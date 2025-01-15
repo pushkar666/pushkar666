@@ -9,9 +9,9 @@
 * 🌍  I'm based in Bengaluru, India.
 * 🧠  I'm interested in Java and SQL.
 * 🌱 I’m currently learning **Java, Spring-Boot, NextJS**.
-* 🖥️  See my portfolio at [Portfolio](http://bxbxbxb).
+* 🖥️  See my portfolio at [Portfolio](https://pushkar666.github.io/).
 * ✉️  You can contact me at [pushkardwarkanath@gmail.com](mailto:pushkardwarkanath@gmail.com).
-* 📄 Know about my experiences [resume](https://drive.google.com/file/d/1OtaUxR5bqeBl1xGkoFoJSlYxv9l-CVw9/view?usp=drive_link).
+* 📄 Know about my experiences [resume](https://drive.google.com/file/d/1HtWFvQvkjByWZAUwyoi1yhiXWgZQwbEi/view?usp=sharing).
 
 <br/>
 <img src="/assets/loader2.gif" width=1024px height=5px />
